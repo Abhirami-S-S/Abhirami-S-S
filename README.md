@@ -1,78 +1,125 @@
-# Hi, I'm Abhirami S S 👋
+<!-- ===================== HEADER ===================== -->
 
-### MCA Student | Python Developer | AI/ML & IoT Enthusiast
+<div align="center">
 
-I'm an MCA student interested in building **practical software systems, intelligent applications, and IoT-based solutions**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abhirami%20S%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-Currently, I'm strengthening my skills in **Python, Data Structures & Algorithms, Django, Machine Learning, Java, and Web Development** while working on real-world academic and personal projects.
+<a href="https://github.com/Abhirami-S-S">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MCA+Student;Python+Developer;Django+Developer;AI%2FML+Enthusiast;IoT+Developer;Data+Structures+%26+Algorithms;Building+Practical+Software+Solutions" alt="Typing SVG" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Abhirami-S-S&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+---
+
+# 👋 About Me
 
 ```text
-💻 Programming        Python • Java • C • JavaScript
-🌐 Web Development     Django • HTML • CSS • Bootstrap
-🤖 AI / ML             Scikit-learn • Pandas • NumPy
-📡 IoT                 ESP32 • Sensors • REST APIs
-🗄️ Database            MySQL • SQL
-📱 App Development     Flutter
-🛠️ Tools               Git • GitHub • VS Code
+🎓 MCA Student
+💻 Python Developer
+🌐 Django & Web Development
+🤖 AI / Machine Learning
+📡 IoT & ESP32
+🧠 Data Structures & Algorithms
+🗄️ MySQL & SQL
+📱 Flutter
+```
+
+I'm an MCA student interested in building **practical software applications, intelligent systems, and IoT-based solutions**.
+
+I enjoy turning ideas into working projects while continuously improving my **problem-solving, programming, and software development skills**.
+
+Currently focusing on:
+
+* 🐍 Python development
+* 🧠 Data Structures & Algorithms
+* 🌐 Django & REST APIs
+* 🤖 Machine Learning
+* 📡 IoT systems
+* 🗄️ SQL & database design
+* ☕ Java
+* 📱 Flutter
+
+---
+
+# ⚡ What I'm Working On
+
+```text
+              ┌───────────────────────────┐
+              │       CURRENT FOCUS        │
+              └─────────────┬─────────────┘
+                            │
+          ┌─────────────────┼─────────────────┐
+          ▼                 ▼                 ▼
+       🧠 DSA            🐍 Python          🌐 Django
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            ▼
+                     🤖 AI / ML
+                            │
+                            ▼
+                       📡 IoT
+                            │
+                            ▼
+                 🚀 Real Projects
 ```
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏨 StayZen — Hotel Management System
+## 🏨 StayZen — Hotel Management System
 
-A full-stack hotel management platform developed using **Django and MySQL**.
+A full-stack hotel management platform built using **Django and MySQL**.
 
-**Highlights**
+### ✨ Features
 
-* Hotel room booking and reservation management
-* Food & beverage ordering
-* Online and offline booking workflows
-* Razorpay payment integration
-* Order cancellation and refund handling
-* Home delivery management
-* Customer loyalty features
-* Notifications and email communication
-* Reports and analytics
-* Role-based access control
+* 🏨 Room booking & reservation
+* 🍽️ Food & beverage ordering
+* 💳 Razorpay payment integration
+* 🔄 Cancellation & refund management
+* 🚚 Home delivery
+* 🎁 Customer loyalty system
+* 📧 Email notifications
+* 📊 Reports & analytics
+* 🔐 Role-based access control
+* 🧾 Invoice generation
+* 👥 Customer management
 
-**Tech Stack:**
-`Python` `Django` `MySQL` `HTML` `CSS` `Bootstrap` `JavaScript` `jQuery` `AJAX` `Razorpay`
+### 🛠️ Technologies
+
+`Python` `Django` `MySQL` `HTML5` `CSS3` `Bootstrap` `JavaScript` `jQuery` `AJAX` `Razorpay`
 
 ---
 
-### ☀️ AI-Enabled IoT-Based Solar Panel Monitoring & Energy Prediction
+## ☀️ AI-Enabled IoT Solar Monitoring & Energy Prediction
 
-An IoT and machine-learning system designed to monitor solar-panel parameters and predict energy generation.
+An IoT and Machine Learning system for monitoring solar-panel parameters and predicting energy generation.
 
-**System Architecture**
+### 🔌 Hardware
 
 ```text
-Solar Panel & Sensors
-        ↓
-      ESP32
-        ↓
-      Wi-Fi
-        ↓
-    REST API
-        ↓
-      MySQL
-        ↓
-   Web Dashboard
-        ↓
-Energy Monitoring & Prediction
+ESP32
+ ├── INA219
+ │    ├── Voltage
+ │    └── Current
+ │
+ ├── DHT22
+ │    ├── Temperature
+ │    └── Humidity
+ │
+ ├── BH1750
+ │    └── Light Intensity
+ │
+ └── Mini Anemometer
+      └── Wind Speed
 ```
 
-**Hardware**
-
-* ESP32
-* INA219 — Voltage & Current
-* DHT22 — Temperature & Humidity
-* BH1750 — Light Intensity
-* Mini Anemometer — Wind Speed
-
-**Machine Learning**
+### 🤖 Machine Learning
 
 * Exploratory Data Analysis
 * Data preprocessing
@@ -81,140 +128,290 @@ Energy Monitoring & Prediction
 * MAE
 * RMSE
 * R²
-* Model comparison and visualization
+* Model comparison
+* Data visualization
 
-**Tech Stack:**
+### 🌐 System Architecture
+
+```text
+┌──────────────────────┐
+│   Solar Panel &      │
+│      Sensors         │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│        ESP32         │
+└──────────┬───────────┘
+           │ Wi-Fi
+           ▼
+┌──────────────────────┐
+│      REST API        │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│       MySQL          │
+└──────────┬───────────┘
+           │
+     ┌─────┴─────┐
+     ▼           ▼
+Dashboard    ML Pipeline
+                 │
+                 ▼
+          Energy Prediction
+```
+
+### 🛠️ Technologies
+
 `Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `ESP32` `Django REST` `MySQL` `React`
 
 ---
 
-## 🧠 What I'm Currently Learning
+# 💻 Tech Stack
 
-* Data Structures & Algorithms
-* Problem Solving with Python
-* Object-Oriented Programming
-* Django & REST API development
-* Machine Learning
-* SQL & Database Design
-* Flutter
-* IoT system development
-* Git & GitHub
+## Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,sql" />
+
+</p>
+
+## Web & Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=django,html,css,bootstrap" />
+
+</p>
+
+## AI / Machine Learning
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+</p>
+
+`NumPy` • `Pandas` • `Scikit-learn` • `XGBoost`
+
+## IoT & Hardware
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=arduino" />
+
+</p>
+
+`ESP32` • `INA219` • `DHT22` • `BH1750` • Sensors
+
+## Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,flutter,mysql" />
+
+</p>
 
 ---
 
-## 💻 Tech Stack
+# 🧠 Data Structures & Algorithms
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
-
-### Web Development
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
-
-### AI / Machine Learning
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat\&logo=xgboost\&logoColor=white)
-
-### IoT & Development Tools
-
-![Arduino](https://img.shields.io/badge/ESP32-000000?style=flat\&logo=espressif\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
-
----
-
-## 📌 Problem Solving
-
-I'm actively improving my problem-solving skills through coding practice.
-
-### Areas I'm Working On
+I'm actively strengthening my problem-solving skills with Python.
 
 ```text
-Arrays & Strings
-Linked Lists
-Stacks & Queues
-Hashing
-Trees & Graphs
-Recursion
-Backtracking
-Searching & Sorting
-Dynamic Programming
-Greedy Algorithms
+                 🧠 PROBLEM SOLVING
+
+                       Arrays
+                         │
+             ┌───────────┴───────────┐
+             ▼                       ▼
+          Strings                Hashing
+             │                       │
+             ▼                       ▼
+      Linked Lists             Stacks / Queues
+             │                       │
+             └───────────┬───────────┘
+                         ▼
+                       Trees
+                         │
+                         ▼
+                       Graphs
+                         │
+             ┌───────────┴───────────┐
+             ▼                       ▼
+       Backtracking              Greedy
+             │                       │
+             └───────────┬───────────┘
+                         ▼
+                Dynamic Programming
 ```
 
-My current focus is on becoming stronger at **writing efficient and clean solutions**, not just solving problems.
+### Currently Practicing
+
+`Arrays` `Strings` `Hashing` `Linked Lists` `Stacks` `Queues` `Trees` `Graphs` `Recursion` `Backtracking` `Greedy` `Dynamic Programming`
 
 ---
 
-## 🎓 Education
+# 📊 GitHub Statistics
 
-**Master of Computer Applications (MCA)**
+<div align="center">
 
-Currently pursuing MCA and working on projects involving:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhirami-S-S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-* Software Development
-* Artificial Intelligence
-* Machine Learning
-* Internet of Things
-* Database Systems
-* Web Technologies
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirami-S-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
 
 ---
 
-## 📈 My Development Journey
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Abhirami-S-S&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abhirami-S-S&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Abhirami-S-S/Abhirami-S-S/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhirami-S-S&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+# 📅 My Development Journey
 
 ```text
-Programming Fundamentals
-          ↓
-   Web Development
-          ↓
-   Python & Django
-          ↓
- Data Structures & Algorithms
-          ↓
-   AI / Machine Learning
-          ↓
-       IoT Systems
-          ↓
-Full-Stack & Intelligent Applications
+2024
+ │
+ ├── Programming Fundamentals
+ │
+ ▼
+2025
+ │
+ ├── Web Development
+ ├── Java
+ ├── Python
+ │
+ ▼
+2026
+ │
+ ├── Data Structures & Algorithms
+ ├── Django
+ ├── Machine Learning
+ ├── IoT
+ └── Full-Stack Projects
+ │
+ ▼
+NEXT
+ │
+ ├── Advanced DSA
+ ├── Backend Development
+ ├── AI/ML Applications
+ └── Production-Level Projects
 ```
 
-I'm continuously learning by **building projects, solving problems, and experimenting with new technologies**.
+---
+
+# 🎯 Current Goals
+
+```text
+☑ Strengthen Python
+☑ Build strong DSA fundamentals
+☑ Develop real-world applications
+☑ Improve Django & REST API skills
+☑ Learn practical Machine Learning
+☑ Build IoT-based systems
+☐ Contribute to Open Source
+☐ Build more production-ready projects
+```
 
 ---
 
-## 🎯 Current Focus
+# 📚 Currently Learning
 
-> Build practical projects.
-> Strengthen problem-solving.
-> Learn by implementing.
-> Become a better software developer.
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with developers, recruiters, and people working on interesting technology projects.
-
-**LinkedIn:** Add your LinkedIn profile here
-**LeetCode:** Add your LeetCode profile here
-**Email:** Add your professional email here
+| Area       | Focus                           |
+| ---------- | ------------------------------- |
+| 🐍 Python  | Problem Solving & Backend       |
+| 🧠 DSA     | Algorithms & Complexity         |
+| 🌐 Django  | Web Applications & APIs         |
+| 🤖 ML      | Regression & Predictive Systems |
+| 📡 IoT     | ESP32 & Sensor Integration      |
+| 🗄️ SQL    | Database Design & Queries       |
+| ☕ Java     | OOP & Application Development   |
+| 📱 Flutter | Mobile Application Development  |
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+# 💡 Development Philosophy
 
-If you find any of my projects interesting, feel free to explore the repositories and leave a ⭐.
+> **Build it. Break it. Understand it. Improve it.**
+
+I believe the best way to learn technology is by **building, debugging, experimenting, and solving problems**.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Abhirami-S-S&style=for-the-badge&color=blueviolet" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Build • Learn • Solve • Improve ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+</div>

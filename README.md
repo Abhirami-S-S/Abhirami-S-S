@@ -1,14 +1,12 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abhirami%20S%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<a href="https://github.com/Abhirami-S-S">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MCA+Student;Python+Developer;Django+Developer;AI%2FML+Enthusiast;IoT+Developer;Data+Structures+%26+Algorithms;Building+Practical+Software+Solutions" alt="Typing SVG" />
-</a>
-
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=MCA+Student;Python+Developer;Django+Developer;AI%2FML+Enthusiast;IoT+Developer;Data+Structures+%26+Algorithms;Building+Practical+Software+Solutions" alt="Typing SVG"/>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Abhirami-S-S&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 
@@ -33,7 +31,7 @@ I'm an MCA student interested in building **practical software applications, int
 
 I enjoy turning ideas into working projects while continuously improving my **problem-solving, programming, and software development skills**.
 
-Currently focusing on:
+### 🔭 Currently Focusing On
 
 * 🐍 Python development
 * 🧠 Data Structures & Algorithms
@@ -50,7 +48,7 @@ Currently focusing on:
 
 ```text
               ┌───────────────────────────┐
-              │       CURRENT FOCUS        │
+              │       CURRENT FOCUS       │
               └─────────────┬─────────────┘
                             │
           ┌─────────────────┼─────────────────┐
@@ -65,7 +63,7 @@ Currently focusing on:
                        📡 IoT
                             │
                             ▼
-                 🚀 Real Projects
+                 🚀 Real-World Projects
 ```
 
 ---
@@ -103,20 +101,21 @@ An IoT and Machine Learning system for monitoring solar-panel parameters and pre
 ### 🔌 Hardware
 
 ```text
-ESP32
- ├── INA219
- │    ├── Voltage
- │    └── Current
- │
- ├── DHT22
- │    ├── Temperature
- │    └── Humidity
- │
- ├── BH1750
- │    └── Light Intensity
- │
- └── Mini Anemometer
-      └── Wind Speed
+                    ESP32
+                      │
+        ┌─────────────┼─────────────┐
+        │             │             │
+        ▼             ▼             ▼
+      INA219        DHT22         BH1750
+        │             │             │
+ Voltage + Current  Temp +       Light
+                   Humidity     Intensity
+                      │
+                      ▼
+                Mini Anemometer
+                      │
+                      ▼
+                  Wind Speed
 ```
 
 ### 🤖 Machine Learning
@@ -154,9 +153,9 @@ ESP32
 │       MySQL          │
 └──────────┬───────────┘
            │
-     ┌─────┴─────┐
-     ▼           ▼
-Dashboard    ML Pipeline
+      ┌────┴────┐
+      ▼         ▼
+ Dashboard   ML Pipeline
                  │
                  ▼
           Energy Prediction
@@ -170,67 +169,62 @@ Dashboard    ML Pipeline
 
 # 💻 Tech Stack
 
-## Languages
+### 👨‍💻 Languages
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,sql" />
-
+<img src="https://skillicons.dev/icons?i=python,java,c,js" />
 </p>
 
-## Web & Backend
+`SQL`
+
+### 🌐 Web & Backend
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=django,html,css,bootstrap" />
-
 </p>
 
-## AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=python" />
-
 </p>
 
-`NumPy` • `Pandas` • `Scikit-learn` • `XGBoost`
+`NumPy` `Pandas` `Scikit-learn` `XGBoost`
 
-## IoT & Hardware
+### 📡 IoT & Hardware
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=arduino" />
-
 </p>
 
-`ESP32` • `INA219` • `DHT22` • `BH1750` • Sensors
+`ESP32` `INA219` `DHT22` `BH1750` `Sensors`
 
-## Tools
+### 🛠️ Tools & Platforms
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,flutter,mysql" />
-
 </p>
 
 ---
 
 # 🧠 Data Structures & Algorithms
 
-I'm actively strengthening my problem-solving skills with Python.
+I'm actively strengthening my problem-solving skills using Python.
 
 ```text
-                 🧠 PROBLEM SOLVING
+                     🧠 DSA
 
                        Arrays
                          │
+                         ▼
+                      Strings
+                         │
              ┌───────────┴───────────┐
              ▼                       ▼
-          Strings                Hashing
+          Hashing              Linked Lists
              │                       │
              ▼                       ▼
-      Linked Lists             Stacks / Queues
+        Stacks / Queues          Recursion
              │                       │
              └───────────┬───────────┘
                          ▼
@@ -248,7 +242,7 @@ I'm actively strengthening my problem-solving skills with Python.
                 Dynamic Programming
 ```
 
-### Currently Practicing
+### 📌 Practicing
 
 `Arrays` `Strings` `Hashing` `Linked Lists` `Stacks` `Queues` `Trees` `Graphs` `Recursion` `Backtracking` `Greedy` `Dynamic Programming`
 
@@ -258,9 +252,9 @@ I'm actively strengthening my problem-solving skills with Python.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhirami-S-S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhirami-S-S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirami-S-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirami-S-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -270,7 +264,7 @@ I'm actively strengthening my problem-solving skills with Python.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Abhirami-S-S&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Abhirami-S-S&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -280,17 +274,7 @@ I'm actively strengthening my problem-solving skills with Python.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhirami-S-S&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Abhirami-S-S/Abhirami-S-S/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<img src="https://github-profile-trophy.vercel.app/?username=Abhirami-S-S&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
@@ -306,37 +290,17 @@ I'm actively strengthening my problem-solving skills with Python.
 
 ---
 
-# 📅 My Development Journey
+# 🐍 Watch My Contributions Get Eaten!
 
-```text
-2024
- │
- ├── Programming Fundamentals
- │
- ▼
-2025
- │
- ├── Web Development
- ├── Java
- ├── Python
- │
- ▼
-2026
- │
- ├── Data Structures & Algorithms
- ├── Django
- ├── Machine Learning
- ├── IoT
- └── Full-Stack Projects
- │
- ▼
-NEXT
- │
- ├── Advanced DSA
- ├── Backend Development
- ├── AI/ML Applications
- └── Production-Level Projects
-```
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhirami-S-S/Abhirami-S-S/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhirami-S-S/Abhirami-S-S/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Abhirami-S-S/Abhirami-S-S/output/github-snake.svg">
+</picture>
+
+</div>
 
 ---
 
@@ -344,37 +308,77 @@ NEXT
 
 ```text
 ☑ Strengthen Python
-☑ Build strong DSA fundamentals
-☑ Develop real-world applications
+☑ Improve DSA fundamentals
+☑ Build real-world applications
 ☑ Improve Django & REST API skills
 ☑ Learn practical Machine Learning
 ☑ Build IoT-based systems
+
 ☐ Contribute to Open Source
-☐ Build more production-ready projects
+☐ Build production-ready applications
+☐ Solve more DSA problems
+☐ Expand AI/ML projects
 ```
 
 ---
 
 # 📚 Currently Learning
 
-| Area       | Focus                           |
-| ---------- | ------------------------------- |
-| 🐍 Python  | Problem Solving & Backend       |
-| 🧠 DSA     | Algorithms & Complexity         |
-| 🌐 Django  | Web Applications & APIs         |
-| 🤖 ML      | Regression & Predictive Systems |
-| 📡 IoT     | ESP32 & Sensor Integration      |
-| 🗄️ SQL    | Database Design & Queries       |
-| ☕ Java     | OOP & Application Development   |
-| 📱 Flutter | Mobile Application Development  |
+| 💡 Area             | 🎯 Focus                       |
+| ------------------- | ------------------------------ |
+| 🐍 Python           | Problem Solving & Backend      |
+| 🧠 DSA              | Algorithms & Complexity        |
+| 🌐 Django           | Web Applications & APIs        |
+| 🤖 Machine Learning | Regression & Prediction        |
+| 📡 IoT              | ESP32 & Sensors                |
+| 🗄️ SQL             | Database Design & Queries      |
+| ☕ Java              | OOP & Application Development  |
+| 📱 Flutter          | Mobile Application Development |
+
+---
+
+# 📈 My Development Journey
+
+```text
+Programming Fundamentals
+          │
+          ▼
+    Web Development
+          │
+          ▼
+      Python & Java
+          │
+          ▼
+Data Structures & Algorithms
+          │
+          ▼
+      Django / APIs
+          │
+          ▼
+  AI / Machine Learning
+          │
+          ▼
+      IoT Systems
+          │
+          ▼
+ Full-Stack Applications
+          │
+          ▼
+   🚀 Real-World Projects
+```
 
 ---
 
 # 💡 Development Philosophy
 
-> **Build it. Break it. Understand it. Improve it.**
+<div align="center">
 
-I believe the best way to learn technology is by **building, debugging, experimenting, and solving problems**.
+### Build. Learn. Solve. Improve.
+
+> I believe the best way to learn technology is by building,
+> debugging, experimenting, and solving real problems.
+
+</div>
 
 ---
 
@@ -382,35 +386,39 @@ I believe the best way to learn technology is by **building, debugging, experime
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/abhirami-sanal">
+<img src="https://img.shields.io/badge/LinkedIn-Abhirami%20Sanal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/AbhiramiSS01/">
+<img src="https://img.shields.io/badge/LeetCode-AbhiramiSS01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.hackerrank.com/profile/abhiramiss_uwr">
+<img src="https://img.shields.io/badge/HackerRank-AbhiramiSS__uwr-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="mailto:abhiramisanal677@gmail.com">
+<img src="https://img.shields.io/badge/Email-abhiramisanal677%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 👀 Profile Visitors
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Abhirami-S-S&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=Abhirami-S-S&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 ### ⚡ Build • Learn • Solve • Improve ⚡
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
